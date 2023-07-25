@@ -47,7 +47,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo Link]()
+[Live Demo Link](https://jodavid444.github.io/portfolio_/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,9 +72,9 @@ Clone this repository to your desired folder:
 run these commands:
 
 ```sh
-  git clone https://github.com/jodavid444/Portfolio_V3.git
+  git clone https://github.com/jodavid444/Portfolio_.git
 
-  cd Portfolio_V3
+  cd Portfolio_
 ```
 
 ### Usage
